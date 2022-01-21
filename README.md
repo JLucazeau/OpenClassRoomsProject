@@ -1,2 +1,2 @@
-# OpenClassRoomsProject
-# Training repository !!!
+# Training repository :)
+(OpenClassRoomsProject)
